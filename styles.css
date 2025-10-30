@@ -67,6 +67,7 @@ a {
 }
 
 .image img {
+  width: 400px;
   object-fit: cover;
   flex: 1;
   border-radius: 8px;
