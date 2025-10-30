@@ -1,7 +1,7 @@
 # shendoBnB
-image credit to
-taryn elliott
-marius dubost
-mamun
-jplenio
-evgeny tchebotaewv
+Image credits to
+taryn elliott, 
+marius dubost, 
+mamun, 
+jplenio, and 
+evgeny tchebotaewv from pexels.
